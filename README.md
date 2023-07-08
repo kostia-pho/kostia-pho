@@ -2,7 +2,7 @@
 
 Current PhD student in Linguistcs at York University specializing in psycholinguistics, bilingualism and Natural Language Processing (NLP). Professional translator (EN<>FR), editor, and copywriter.
 
-
+<a href="https://github.com/kostia-pho/profile-card/blob/main/index.html">
 
 <!---
 kostia-pho/kostia-pho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
