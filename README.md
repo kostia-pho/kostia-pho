@@ -4,7 +4,7 @@ Hello! I am a Master's student at Queen's University with an interest in systems
 My day job is writing reinforcement learning agents in PyTorch and logic engines in Haskell.
 My current hobby project is a GameBoy Emulator in Rust.
 
-![preview img](https://github.com/kostia-pho/profile-card/blob/main/index.html)
+![a relative link](https://github.com/kostia-pho/profile-card/blob/main/index.html)
 
 <!---
 kostia-pho/kostia-pho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
