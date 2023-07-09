@@ -1,8 +1,8 @@
-<h4 align="center"><b></b>Konstantine Kostia H. Pho</h4></b></h4>
+<h4 align="center"><b></b>Hey there! My name's Kostia</h4></b></h4>
 
 ###
 
-<p align="center">Current PhD student in Linguistics at York University specializing in psycholinguistics, bilingualism and Natural Language Processing (NLP). Professional translator (EN<>FR), editor, and copywriter.</p>
+<p align="center">I'm a current PhD student in Linguistics at York University specializing in psycholinguistics, bilingualism and Natural Language Processing (NLP) as well as a professional translator (EN<>FR), editor, and copywriter.</p>
 
 ###
 
