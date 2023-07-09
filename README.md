@@ -2,7 +2,9 @@
 
 ###
 
-<p align="center">PhD candidate in Linguistics at York University specializing in psycholinguistics, bilingualism and Natural Language Processing (NLP), and professional translator (EN<>FR), editor, and copywriter.</p>
+<p align="center">PhD candidate in Linguistics at York University specializing in psycholinguistics, bilingualism and Natural Language Processing (NLP)| 
+<br>
+Professional translator (EN<>FR), editor, and copywriter.</p>
 
 ###
 
