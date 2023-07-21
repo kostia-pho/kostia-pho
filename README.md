@@ -4,7 +4,9 @@
 
 <p align="center">I'm a PhD candidate in Linguistics at York University, specializing in 
   <br>psycholinguistics, bilingualism and Natural Language Processing (NLP). 
-<br>Outside of academia, I am a professional translator (EN<>FR), editor, copywriter, and project manager.</p>
+  <p></p>
+<br>Outside of academia, I am a professional translator (EN<>FR), editor, 
+  <br>copywriter, and project manager.</p>
 
 ###
 
