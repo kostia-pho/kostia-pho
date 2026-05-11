@@ -10,8 +10,8 @@
 
 <table align="center" border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;"><a href="https://www.linkedin.com/in/kostia-pho/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" /></a></td>
-    <td style="border: none;"><a href="mailto:phokonst@my.yorku.ca" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo" /></a></td>
+    <td style="border: none;"><a href="https://www.linkedin.com/in/kostia-pho/" target="_blank"><img src="https://icons.getbootstrap.com/icons/linkedin/" width="32" height="20" alt="linkedin logo" /></a></td>
+    <td style="border: none;"><a href="mailto:kostia.pho@protonmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo" /></a></td>
     <td style="border: none;"><a href="https://linktr.ee/kostia.pho" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="32" height="20" alt="linktree logo" /></a></td>
   </tr>
 </table>
