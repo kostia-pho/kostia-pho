@@ -11,8 +11,10 @@
 
 <p align="center">Want to know more? Connect with me!</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kostia-pho/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo" /></a> &nbsp;
-  <a href="mailto:phokonst@my.yorku.ca" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="30" alt="gmail logo" /></a> &nbsp;
-  <a href="https://linktr.ee/kostia.pho" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="30" alt="linktree logo" /></a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/kostia-pho/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" /></a></td>
+    <td><a href="mailto:phokonst@my.yorku.ca" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo" /></a></td>
+    <td><a href="https://linktr.ee/kostia.pho" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="32" height="20" alt="linktree logo" /></a></td>
+  </tr>
+</table>
